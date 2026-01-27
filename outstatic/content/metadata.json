@@ -1,0 +1,22 @@
+{
+  "commit": "",
+  "generated": "2026-01-27T13:05:18.620Z",
+  "metadata": [
+    {
+      "__outstatic": {
+        "commit": "",
+        "hash": "986415108",
+        "path": "README.md"
+      },
+      "author": {
+        "name": "Andre Vitorio",
+        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
+      },
+      "collection": "_singletons",
+      "publishedAt": "2026-01-27T12:47:09.872Z",
+      "slug": "readme",
+      "status": "draft",
+      "title": "README"
+    }
+  ]
+}

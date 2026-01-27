@@ -1,3 +1,13 @@
+---
+title: "README"
+publishedAt: "2026-01-27T12:47:09.872Z"
+status: "draft"
+author:
+  name: "Andre Vitorio"
+  picture: "https://avatars.githubusercontent.com/u/1417109?v=4"
+slug: "readme"
+---
+
 # Multion Webgl Logo
 
 - **Author**: Andre Vitorio
