@@ -1,6 +1,6 @@
 {
-  "commit": "",
-  "generated": "2026-01-27T13:05:18.620Z",
+  "commit": "4bd7331615c99a2b7e9b8f3b5f96571f58ecbe9e",
+  "generated": "2026-01-27T13:08:07.105Z",
   "metadata": [
     {
       "__outstatic": {
@@ -17,6 +17,22 @@
       "slug": "readme",
       "status": "draft",
       "title": "README"
+    },
+    {
+      "__outstatic": {
+        "commit": "4bd7331615c99a2b7e9b8f3b5f96571f58ecbe9e",
+        "hash": "1189069372",
+        "path": "outstatic/content/posts/my-new-post.mdx"
+      },
+      "author": {
+        "name": "Andre Vitorio",
+        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
+      },
+      "collection": "posts",
+      "publishedAt": "2026-01-27T12:49:58.126Z",
+      "slug": "my-new-post",
+      "status": "draft",
+      "title": "MY new post"
     }
   ]
 }
