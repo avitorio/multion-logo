@@ -1,0 +1,22 @@
+{
+  "commit": "",
+  "generated": "2026-02-02T20:57:31.706Z",
+  "metadata": [
+    {
+      "__outstatic": {
+        "commit": "",
+        "hash": "3399698705",
+        "path": "outstatic/content/posts/my-post.mdx"
+      },
+      "author": {
+        "name": "Andre Vitorio",
+        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
+      },
+      "collection": "posts",
+      "publishedAt": "2026-02-02T20:30:36.307Z",
+      "slug": "my-post",
+      "status": "draft",
+      "title": "My post"
+    }
+  ]
+}
