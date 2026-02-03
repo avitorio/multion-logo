@@ -6,5 +6,13 @@
     "path": "outstatic/content/_singletons/hello.md",
     "publishedAt": "2026-02-03T19:33:03.834Z",
     "status": "draft"
+  },
+  {
+    "title": "What is ",
+    "slug": "what-is",
+    "directory": "outstatic/content/_singletons",
+    "path": "outstatic/content/_singletons/what-is.md",
+    "publishedAt": "2026-02-03T19:35:10.766Z",
+    "status": "draft"
   }
 ]

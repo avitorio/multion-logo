@@ -1,6 +1,6 @@
 {
-  "commit": "d6d988597e81150be8f23c52c24e8236593ef76a",
-  "generated": "2026-02-03T19:52:17.314Z",
+  "commit": "d03f99f9bc1bb6559f8c85f3330320f86cc2349d",
+  "generated": "2026-02-03T19:53:20.373Z",
   "metadata": [
     {
       "__outstatic": {
@@ -33,6 +33,22 @@
       "slug": "my-new-post",
       "status": "draft",
       "title": "My new post"
+    },
+    {
+      "__outstatic": {
+        "commit": "d03f99f9bc1bb6559f8c85f3330320f86cc2349d",
+        "hash": "3338557059",
+        "path": "outstatic/content/_singletons/what-is.md"
+      },
+      "author": {
+        "name": "Andre Vitorio",
+        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
+      },
+      "collection": "_singletons",
+      "publishedAt": "2026-02-03T19:35:10.766Z",
+      "slug": "what-is",
+      "status": "draft",
+      "title": "What is "
     }
   ]
 }
