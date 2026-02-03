@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "title": "Howdy",
+    "slug": "howdy",
+    "directory": "outstatic/content/_singletons",
+    "path": "outstatic/content/_singletons/howdy.md",
+    "publishedAt": "2026-02-03T19:28:30.508Z",
+    "status": "draft"
+  }
+]

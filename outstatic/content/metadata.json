@@ -1,0 +1,22 @@
+{
+  "commit": "",
+  "generated": "2026-02-03T19:46:46.009Z",
+  "metadata": [
+    {
+      "__outstatic": {
+        "commit": "",
+        "hash": "112857420",
+        "path": "outstatic/content/_singletons/howdy.md"
+      },
+      "author": {
+        "name": "Andre Vitorio",
+        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
+      },
+      "collection": "_singletons",
+      "publishedAt": "2026-02-03T19:28:30.508Z",
+      "slug": "howdy",
+      "status": "draft",
+      "title": "Howdy"
+    }
+  ]
+}
