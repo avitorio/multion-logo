@@ -1,0 +1,22 @@
+{
+  "commit": "",
+  "generated": "2026-02-03T18:47:22.257Z",
+  "metadata": [
+    {
+      "__outstatic": {
+        "commit": "",
+        "hash": "816128553",
+        "path": "outstatic/content/_singletons/dfsdf.mdx"
+      },
+      "author": {
+        "name": "Andre Vitorio",
+        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
+      },
+      "collection": "_singletons",
+      "publishedAt": "2026-02-03T18:29:07.675Z",
+      "slug": "dfsdf",
+      "status": "draft",
+      "title": "dfsdf"
+    }
+  ]
+}
