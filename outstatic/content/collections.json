@@ -1,0 +1,14 @@
+[
+  {
+    "title": "_ singletons",
+    "slug": "_singletons",
+    "path": "outstatic/content/_singletons",
+    "children": []
+  },
+  {
+    "title": "Posts",
+    "slug": "posts",
+    "path": "outstatic/content/posts",
+    "children": []
+  }
+]
