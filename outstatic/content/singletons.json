@@ -14,5 +14,13 @@
     "directory": "outstatic/content/_singletons",
     "publishedAt": "February 3, 2026",
     "status": "draft"
+  },
+  {
+    "title": "alive",
+    "slug": "alive",
+    "directory": "outstatic/content/_singletons",
+    "path": "outstatic/content/_singletons/alive.md",
+    "publishedAt": "2026-02-03T19:43:38.796Z",
+    "status": "draft"
   }
 ]
