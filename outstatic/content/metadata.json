@@ -1,6 +1,6 @@
 {
-  "commit": "1adb2ffd5d7052c7432ee37699234814fdd5fd8a",
-  "generated": "2026-02-03T19:56:22.159Z",
+  "commit": "e027258b9586beb365d6b313bc74fa2025195b08",
+  "generated": "2026-02-03T19:56:33.095Z",
   "metadata": [
     {
       "__outstatic": {
@@ -65,6 +65,22 @@
       "slug": "super",
       "status": "draft",
       "title": "Super"
+    },
+    {
+      "__outstatic": {
+        "commit": "e027258b9586beb365d6b313bc74fa2025195b08",
+        "hash": "3584201437",
+        "path": "outstatic/content/posts/yes-me.md"
+      },
+      "author": {
+        "name": "Andre Vitorio",
+        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
+      },
+      "collection": "posts",
+      "publishedAt": "2026-02-03T19:38:26.884Z",
+      "slug": "yes-me",
+      "status": "draft",
+      "title": "Yes me"
     }
   ]
 }
