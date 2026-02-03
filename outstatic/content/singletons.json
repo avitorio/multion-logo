@@ -14,5 +14,13 @@
     "path": "outstatic/content/_singletons/what-is.md",
     "publishedAt": "2026-02-03T19:35:10.766Z",
     "status": "draft"
+  },
+  {
+    "title": "Super",
+    "slug": "super",
+    "directory": "outstatic/content/_singletons",
+    "path": "outstatic/content/_singletons/super.md",
+    "publishedAt": "2026-02-03T19:38:13.208Z",
+    "status": "draft"
   }
 ]
