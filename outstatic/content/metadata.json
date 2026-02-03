@@ -1,23 +1,7 @@
 {
-  "commit": "e027258b9586beb365d6b313bc74fa2025195b08",
-  "generated": "2026-02-03T19:56:33.095Z",
+  "commit": "aa50bd53c3ebed6ad6283eac2d5d5ef0c833f0b9",
+  "generated": "2026-02-03T19:58:36.600Z",
   "metadata": [
-    {
-      "__outstatic": {
-        "commit": "",
-        "hash": "270387349",
-        "path": "outstatic/content/_singletons/hello.md"
-      },
-      "author": {
-        "name": "Andre Vitorio",
-        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
-      },
-      "collection": "_singletons",
-      "publishedAt": "2026-02-03T19:33:03.834Z",
-      "slug": "hello",
-      "status": "draft",
-      "title": "Hello"
-    },
     {
       "__outstatic": {
         "commit": "d6d988597e81150be8f23c52c24e8236593ef76a",
@@ -81,6 +65,22 @@
       "slug": "yes-me",
       "status": "draft",
       "title": "Yes me"
+    },
+    {
+      "__outstatic": {
+        "commit": "aa50bd53c3ebed6ad6283eac2d5d5ef0c833f0b9",
+        "hash": "2499628470",
+        "path": "outstatic/content/_singletons/hello.md"
+      },
+      "author": {
+        "name": "Andre Vitorio",
+        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
+      },
+      "collection": "_singletons",
+      "publishedAt": "2026-02-03T19:33:03.834Z",
+      "slug": "hello",
+      "status": "draft",
+      "title": "Hello"
     }
   ]
 }
