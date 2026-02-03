@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Super",
+    "slug": "super",
+    "path": "outstatic/content/_singletons/super.md",
+    "directory": "outstatic/content/_singletons",
+    "publishedAt": "February 3, 2026",
+    "status": "draft"
+  },
+  {
+    "title": "What is ",
+    "slug": "what-is",
+    "path": "outstatic/content/_singletons/what-is.md",
+    "directory": "outstatic/content/_singletons",
+    "publishedAt": "February 3, 2026",
+    "status": "draft"
+  }
+]
