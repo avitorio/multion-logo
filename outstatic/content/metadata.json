@@ -1,6 +1,6 @@
 {
-  "commit": "",
-  "generated": "2026-02-03T18:41:33.578Z",
+  "commit": "382f69c7a0a86e54a40ead70531d5066e63610ec",
+  "generated": "2026-02-03T18:44:33.696Z",
   "metadata": [
     {
       "__outstatic": {
@@ -16,6 +16,22 @@
       "slug": "a",
       "status": "draft",
       "title": "asdasd"
+    },
+    {
+      "__outstatic": {
+        "commit": "382f69c7a0a86e54a40ead70531d5066e63610ec",
+        "hash": "1715297910",
+        "path": "outstatic/content/posts/something.md"
+      },
+      "author": {
+        "name": "Andre Vitorio",
+        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
+      },
+      "collection": "posts",
+      "publishedAt": "2026-02-03T18:26:26.080Z",
+      "slug": "something",
+      "status": "draft",
+      "title": "something"
     }
   ]
 }
