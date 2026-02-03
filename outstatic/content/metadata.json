@@ -1,6 +1,6 @@
 {
-  "commit": "",
-  "generated": "2026-02-03T19:51:12.296Z",
+  "commit": "d6d988597e81150be8f23c52c24e8236593ef76a",
+  "generated": "2026-02-03T19:52:17.314Z",
   "metadata": [
     {
       "__outstatic": {
@@ -17,6 +17,22 @@
       "slug": "hello",
       "status": "draft",
       "title": "Hello"
+    },
+    {
+      "__outstatic": {
+        "commit": "d6d988597e81150be8f23c52c24e8236593ef76a",
+        "hash": "1617503265",
+        "path": "outstatic/content/posts/my-new-post.mdx"
+      },
+      "author": {
+        "name": "Andre Vitorio",
+        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
+      },
+      "collection": "posts",
+      "publishedAt": "2026-02-03T19:34:10.807Z",
+      "slug": "my-new-post",
+      "status": "draft",
+      "title": "My new post"
     }
   ]
 }
