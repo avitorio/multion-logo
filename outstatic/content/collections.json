@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "title": "Public",
+    "slug": "public",
+    "path": "public",
+    "parent": null
+  }
+]
